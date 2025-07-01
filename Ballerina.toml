@@ -1,0 +1,4 @@
+[package]
+org = "lucasf"
+name = "devant_training"
+version = "0.1.0"
